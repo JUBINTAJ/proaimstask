@@ -1,4 +1,4 @@
-.footer {
+.nav {
   background-color: #b30963;
   width: full;
   height: 80px;
@@ -93,19 +93,19 @@
 .days {
   background-color: white;
   border-radius: 10px;
-  box-shadow: 10px;
+  box-shadow: 1px 1px 1px;
   padding: 20px;
 }
 .Ornamnets {
   background-color: white;
   border-radius: 10px;
-  box-shadow: 10px;
+  box-shadow: 1px 1px 1px;
   padding: 20px;
 }
 .Stories {
   background-color: white;
   border-radius: 10px;
-  box-shadow: 10px;
+  box-shadow: 1px 1px 1px;
   padding: 20px;
 }
 .daysh {
@@ -212,7 +212,7 @@
 .priya {
   background-color: white;
   border-radius: 10px;
-  box-shadow: 10px black;
+  box-shadow: 1px 1px 1px;
   padding: 20px;
 }
 .customer {
