@@ -1,0 +1,235 @@
+.footer {
+  background-color: #b30963;
+  width: full;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  height: 60px;
+}
+.heading {
+  color: aliceblue;
+}
+.first {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+.second {
+  margin-right: 40px;
+}
+.yellowbox {
+  border-radius: 200px;
+  background-color: yellow;
+  border: 1px solid white;
+  color: white;
+}
+.en {
+  border-radius: 200px;
+  color: white;
+
+  background-color: transparent;
+  border: 1px solid white;
+}
+.second-div {
+  display: flex;
+  width: 1000px;
+  height: 600px;
+  justify-content: space-between;
+  padding: px;
+  margin-left: 370px;
+}
+.img {
+  padding-right: 70px;
+}
+.jawelry {
+  height: 500px;
+  width: 500px;
+  margin-top: 100px;
+}
+.text-celebrate {
+  color: #78350f;
+  width: 300px;
+}
+.Years {
+  margin-top: 100px;
+  padding-left: 70px;
+}
+.buttons {
+  margin-left: 10px;
+}
+.view {
+  width: 100px;
+  height: 40px;
+  background-color: #b30963;
+  border-radius: 30px;
+  border: 0px;
+  color: white;
+}
+.Browse {
+  height: 40px;
+  background-color: transparent;
+  border-radius: 30px;
+  border: 1px solid #b30963;
+  color: #b30963;
+}
+
+.third-div {
+  background-color: #fef4ca;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+
+.inside-div {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+  width: 1000px;
+}
+.days {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 10px;
+  padding: 20px;
+}
+.Ornamnets {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 10px;
+  padding: 20px;
+}
+.Stories {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 10px;
+  padding: 20px;
+}
+.daysh {
+  color: #b30963;
+}
+.Ornamnetsh {
+  color: #b30963;
+}
+.Storiesh {
+  color: #b30963;
+}
+
+.forth {
+  height: 1200px;
+  width: 1000px;
+  margin-left: 370px;
+  display: column;
+  gap: 200px;
+  
+}
+.forth-first {
+  display: block;
+  height: 200px;
+  padding-left: 10px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 1px 1px  3px;
+}
+.forth-second {
+  height: 400px;
+  box-shadow: 1px 1px  3px;
+  margin-top: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.forth-third {
+  height: 500px;
+  box-shadow: 1px 1px  3px;
+  margin-top: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.input {
+  display: block;
+  padding-left: 10px;
+}
+.input-tow {
+  display: block;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.yes {
+  width: 900px;
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid #b30963;
+  border-radius: 6px;
+  padding-right: 900px;
+}
+.secondd {
+  width: 100px;
+  height: 50px;
+  background-color: transparent;
+  border: 1px solid #b30963;
+  border-radius: 6px;
+  padding-right: 900px;
+}
+.input-second {
+  display: block;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.formbutton {
+  margin-top: 20px;
+  margin-left: 250px;
+  padding: 10px;
+}
+.button {
+  background-color: #b30963;
+  height: 40px;
+  border: 0px;
+  color: white;
+  width: 500px;
+}
+.inside-forth {
+  margin-top: 80px;
+}
+
+.last {
+  background-color: #e5e7eb;
+  height: 300px;
+  display: grid;
+  justify-content: center;
+}
+.last-div {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+  width: 1000px;
+  padding: 10px;
+}
+.priya {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 10px black;
+  padding: 20px;
+}
+.customer {
+  justify-content: center;
+  margin-left: 360px;
+}
+.profile {
+  display: flex;
+  height: 40px;
+}
+.name {
+  margin-left: 10px;
+  margin-top: -30px;
+}
+.star {
+  margin-top: -20px;
+}
+.lorem {
+  margin-top: 40px;
+}
